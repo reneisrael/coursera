@@ -1,3 +1,3 @@
 # coursera
-Coursera Projects
+## Coursera Projects
 An Introduction to Interactive Programming in Python (Part 1)
